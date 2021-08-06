@@ -1,4 +1,4 @@
-~Day 2 of 30 Days of ML
+~Day 2 of 30 Days of ML by #Kaggle
 
 Topic : Hello, Python
 
