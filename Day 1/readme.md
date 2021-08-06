@@ -8,5 +8,4 @@ I completed an assignment in Day 1. The assignment was "Titanic - Machine Learni
 
 Tutorial link : https://www.kaggle.com/alexisbcook/titanic-tutorial
 
-Notebook exercise link : https://www.kaggle.com/shadril238/day-1-titanic-machine-learning-from-disaster
 
