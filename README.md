@@ -3,7 +3,6 @@
 
 -Machine learning beginner → Kaggle competitor in 30 days. Non-coders also welcome!
 
-1.How does the challenge work?
 
 # Overview
   
