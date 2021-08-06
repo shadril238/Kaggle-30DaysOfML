@@ -5,7 +5,7 @@
 
 1.How does the challenge work?
 
-Overview
+# Overview
   
   -In the first 2 weeks, you’ll receive hands-on assignments delivered to your inbox. The goal of these assignments is to rapidly cover the most essential skills needed to get your hands dirty with data. You'll start by learning how to code in Python and quickly learn how to build your first machine learning model.
 
