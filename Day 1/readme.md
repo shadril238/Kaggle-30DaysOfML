@@ -1,4 +1,4 @@
-~Day 1 of 30 Days of ML by #Kaggle
+# Day 1 of 30 Days of ML by #Kaggle
 
 Topic : Titanic Tutorial
 
