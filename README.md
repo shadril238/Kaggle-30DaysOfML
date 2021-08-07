@@ -10,7 +10,7 @@
 
   -After tackling these core concepts, you’ll be invited to a super fun, beginner-friendly Kaggle machine learning competition to test your knowledge. Through practice, you’ll explore the best ways to use Kaggle as a learning resource and connect with other data scientists.
 
-  -On top of all of this, you’ll have the opportunity to attend elective workshops and seminars hosted by data scientists from Google's Developer Experts Program. The challenge kicks off on August 2nd and only requires a Kaggle account.
+  -On top of all of this, you’ll have the opportunity to attend elective workshops and seminars hosted by data scientists from Google's Developer Experts Program. The challenge kicks off on August 2nd, 2021 and only requires a Kaggle account.
 
 -To know more : https://www.kaggle.com/thirty-days-of-ml
 
