@@ -1,6 +1,6 @@
 # Day 4 of 30 Days of ML by #Kaggle
 
-#Topic : Booleans and Conditionals
+# Topic : Booleans and Conditionals
 
 In this lesson, you’ll learn all about the Boolean data type, which allows you to represent “True” and “False” in Python code. This will provide a strong foundation for understanding how to write conditional statements, which are used to modify how code runs based on whether certain conditions hold. 
 
