@@ -1,5 +1,7 @@
 # Day 2 of 30 Days of ML by #Kaggle
 
+-First day of "Python" course.
+
 # Topic : Hello, Python
 
 -In this lesson, you’ll get a feel for Python syntax, and learn how to work with variables and do arithmetic in Python. 
