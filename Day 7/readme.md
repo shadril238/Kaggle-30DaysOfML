@@ -6,5 +6,5 @@
 
 -At day 7, I completed #Python course from #Kaggle and get certified.
 
-Tutorial link : https://www.kaggle.com/colinmorris/working-with-external-libraries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-7
+-Tutorial link : https://www.kaggle.com/colinmorris/working-with-external-libraries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-7
 
