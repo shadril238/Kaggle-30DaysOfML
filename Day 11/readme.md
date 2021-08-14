@@ -1,7 +1,7 @@
 # Day 11 of 30 Days of ML by #Kaggle
 
 
--I perticipated in a Kaggle ML competetion which was "Housing Prices Competition for Kaggle Learn Users". In this competition, you need to predict housing prices from the given dataset.
+-I perticipated in a Kaggle ML competition which was "Housing Prices Competition for Kaggle Learn Users". In this competition, you need to predict housing prices from the given dataset.
 
 -In day 11, I completed "Intro to Machine Learning" course from Kaggle and get certified!
 
