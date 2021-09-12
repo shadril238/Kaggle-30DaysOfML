@@ -1,6 +1,6 @@
 # Day 12 of 30 Days of ML by #Kaggle
 
--First day of "Intro to Machine Learning" course.
+-First day of "Intermediate Machine Learning" course.
 
 # Topic-1 : Introduction
 
