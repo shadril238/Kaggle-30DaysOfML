@@ -1,5 +1,7 @@
 # Day 14 of 30 Days of ML by #Kaggle
 
+-In day 14, I completed "Intermediate Machine Learning" course from Kaggle and get certified!
+
 # Topic-1 : XGBoost
 
 -In this lesson, you’ll learn how to build and optimize models with gradient boosting. This method dominates many Kaggle competitions and achieves state-of-the-art results on a variety of datasets.
