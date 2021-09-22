@@ -1,0 +1,1 @@
+From day 15 to 30, I built my own ML models and did a project.
